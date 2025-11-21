@@ -31,6 +31,7 @@ Created while following a high-quality YouTube playlist—resources are neatly o
 JDBC-Java-Database-Connectivity/
 │  
 ├── All Together Code ( Except Major Projects )/
+├── Extra
 ├── Lecture 01/
 ├── Lecture 02/
 ├── Lecture 03/
