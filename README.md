@@ -24,7 +24,7 @@ This repository is made with the aim to learn JDBC in efficient manner. All the 
 Clone the repository to explore the notes and run code files:
 
 ```bash
-git clone https://github.com/AnuprashGautam/JDBC-By-Indian-Programmer
+git clone https://github.com/AnuprashGautam/JDBC-Java-Database-Connectivity
 ```
 
 # **Contributions are Welcomed! Happy Coding!!!😃**
