@@ -59,10 +59,10 @@ JDBC-Java-Database-Connectivity/
   ▶️ [JDBC YouTube Playlist](https://youtube.com/playlist?list=PL9q3G4cgja6cgxDbpg3cdvnqM9iWwQtNG)
 
 - **PDF Notes:**  
-  📄 [Download Notes](https://drive.google.com/drive/folders/1KoHxW5xRitVueg5hU6rV2reTKnpBtu6p?usp=sharing)
+  📄 [Download Notes](https://drive.google.com/file/d/1mIUf57IYEWXq4QqV03KxElJ7RxIj3k8E/view?usp=sharing)
 
 - **Interview Questions:**  
-  ❓ [Interview Questions Folder](https://drive.google.com/drive/folders/1KoHxW5xRitVueg5hU6rV2reTKnpBtu6p?usp=sharing)
+  ❓ [Interview Questions Folder](https://drive.google.com/file/d/1xbCnTsa6MQQ_1mjeQxxs7EWRf65NfGrh/view?usp=sharing)
 
 ---
 
